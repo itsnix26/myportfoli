@@ -1,0 +1,11 @@
+:root {
+  --mainColor: #15202b;
+  --secondatyColor: #192734;
+
+  --borderColor: #164d56;
+
+  --mainText: #fff;
+  --secondaryText: rgb(224, 222, 222);
+  --themeDotBorder: white;
+  --previewBg: #15202b;
+}
